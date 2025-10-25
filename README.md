@@ -21,12 +21,12 @@ Ce projet met en avant une fois de plus les compétences en HTML et CSS.
  Tablette 768px  Grille réorganisée verticalement 
  Mobile 375px  Cartes empilées et texte centré 
 
- ## pour les captures d'ecrans:
 
  ## Remarques 
 Ce projet m’a permis de renforcer mes bases en HTML et CSS tout en decouvrant une autre maniere qui facile la responsivité .  
 C’est un exercice motivant qui m’a donné envie d’aller encore plus loin en développement web.
 
+ ## pour les captures d'ecrans:
 ### pour le desktop
 
 ![doc](./Assets/doc.png)
