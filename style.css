@@ -105,15 +105,45 @@ span {
 .yacos {
     padding: 50px;
 }
+@media (max-width:1440px) {
+    .icon i{
+        font-size: 1.2rem;
+    }
+    .icon{
+        width: 150px;
+        margin-top: 10px;
+        
+    }
+    .temoignage{
+        margin-left: 100px;
+    }
+   
+    span{
+        font-size: 15px;
+    }
+    .grand{
+        
+        width: 810px;
+    }
+    
+}
 @media (max-width:1024px) {
     .grid{
         display: flex;
         flex-direction: column;
     }
+    .grand{
+        width: 100%;
+        
+    }
     
 }
 @media (max-width:768px) {
     .temoignage{
+        width: 100%;
+        margin: auto;
+    }
+    .grand{
         width: 100%;
     }
    
